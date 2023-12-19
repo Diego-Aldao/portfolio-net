@@ -1,0 +1,753 @@
+{
+  "id": 1,
+  "nombreArchivo": "todos mis proyectos",
+  "nombre": "proyectos",
+  "descripcion": "Los últimos proyectos que he realizado. Incluyo, para cada uno de ellos, una breve descripción, las tecnologías utilizadas y los links a los sitios en vivo",
+  "data": [
+    {
+      "id": 1,
+      "titulo": "api banderas",
+      "año": 2022,
+      "descripcion": "práctica de apis con fetch",
+      "links": [
+        {
+          "id": 1,
+          "url": "https://github.com/Diego-Aldao/api-banderas",
+          "codigo": true
+        }
+      ],
+      "tecnologias": [
+        {
+          "id": 1,
+          "nombre": "react"
+        },
+        {
+          "id": 2,
+          "nombre": "styled-components"
+        },
+        {
+          "id": 3,
+          "nombre": "react-router"
+        },
+        {
+          "id": 4,
+          "nombre": "REST Countries API"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "portfolio v1",
+      "año": 2021,
+      "descripcion": "primera versión de mi portfolio personal con javascript puro",
+      "links": [
+        {
+          "id": 1,
+          "url": "https://diegowebdev.netlify.app/",
+          "codigo": false
+        },
+        {
+          "id": 2,
+          "url": "https://github.com/Diego-Aldao/Portfolio",
+          "codigo": true
+        }
+      ],
+      "tecnologias": [
+        {
+          "id": 1,
+          "nombre": "html"
+        },
+        {
+          "id": 2,
+          "nombre": "sass"
+        },
+        {
+          "id": 3,
+          "nombre": "javascript"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "ink diversity",
+      "año": 2021,
+      "descripcion": "landing page para una escuela de tatuajes",
+      "links": [
+        {
+          "id": 1,
+          "url": "https://inkdiversity.netlify.app/",
+          "codigo": false
+        },
+        {
+          "id": 2,
+          "url": "https://github.com/Diego-Aldao/Ink-Diversity",
+          "codigo": true
+        }
+      ],
+      "tecnologias": [
+        {
+          "id": 1,
+          "nombre": "html"
+        },
+        {
+          "id": 2,
+          "nombre": "scss"
+        },
+        {
+          "id": 3,
+          "nombre": "javascript"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "titulo": "app clima",
+      "año": 2021,
+      "descripcion": "app de clima usando la api de open weather",
+      "links": [
+        {
+          "id": 1,
+          "url": "https://github.com/Diego-Aldao/app-clima",
+          "codigo": true
+        }
+      ],
+      "tecnologias": [
+        {
+          "id": 1,
+          "nombre": "html"
+        },
+        {
+          "id": 2,
+          "nombre": "scss"
+        },
+        {
+          "id": 3,
+          "nombre": "javascript"
+        },
+        {
+          "id": 4,
+          "nombre": "openweather API"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "titulo": "portfolio angular frontend",
+      "año": 2022,
+      "descripcion": "portfolio realizado como proyecto final para la segunda etapa del programa argentina programa",
+      "links": [
+        {
+          "id": 1,
+          "url": "https://github.com/Diego-Aldao/ap-portfolio-frontend",
+          "codigo": true
+        }
+      ],
+      "tecnologias": [
+        {
+          "id": 1,
+          "nombre": "angular"
+        },
+        {
+          "id": 2,
+          "nombre": "typescript"
+        },
+        {
+          "id": 3,
+          "nombre": "firebase"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "titulo": "arcoiris",
+      "año": 2021,
+      "descripcion": "sitio web para un jardín de niños",
+      "links": [
+        {
+          "id": 1,
+          "url": "https://arcoiriskids.netlify.app/",
+          "codigo": false
+        },
+        {
+          "id": 2,
+          "url": "https://github.com/Diego-Aldao/escuela-primaria",
+          "codigo": true
+        }
+      ],
+      "tecnologias": [
+        {
+          "id": 1,
+          "nombre": "html"
+        },
+        {
+          "id": 2,
+          "nombre": "sass"
+        },
+        {
+          "id": 3,
+          "nombre": "javascript"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "titulo": "covid-19 data",
+      "año": 2022,
+      "descripcion": "covid-19 data es un proyecto que combina una api junto a un mapa interactivo para hacer una exposición de los datos de covid a nivel mundial.",
+      "tipo": "sitio educativo",
+      "imagenEnd": false,
+      "imagenUrl": "https://firebasestorage.googleapis.com/v0/b/portfolio-ap-front.appspot.com/o/proyectos%2Fcovid.webp?alt=media&token=b567856f-e37e-4f28-9dca-85b4abdc7790",
+      "links": [
+        {
+          "id": 1,
+          "url": "https://covid19-data-dev.netlify.app/",
+          "codigo": false
+        },
+        {
+          "id": 2,
+          "url": "https://github.com/Diego-Aldao/covid19-data-react",
+          "codigo": true
+        }
+      ],
+      "tecnologias": [
+        {
+          "id": 1,
+          "nombre": "react"
+        },
+        {
+          "id": 2,
+          "nombre": "tailwind css"
+        },
+        {
+          "id": 3,
+          "nombre": "covid-19 data API"
+        },
+        {
+          "id": 4,
+          "nombre": "jvectormap"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "titulo": "cotizador cripto",
+      "año": 2022,
+      "descripcion": "app de cotizacion y comparacion de criptomonedas",
+      "links": [
+        {
+          "id": 1,
+          "url": "https://comparacion-cripto.netlify.app/",
+          "codigo": false
+        },
+        {
+          "id": 2,
+          "url": "https://github.com/Diego-Aldao/criptos-react",
+          "codigo": true
+        }
+      ],
+      "tecnologias": [
+        {
+          "id": 1,
+          "nombre": "react"
+        },
+        {
+          "id": 2,
+          "nombre": "emotion"
+        },
+        {
+          "id": 3,
+          "nombre": "cryptocompare API"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "titulo": "control de gastos",
+      "año": 2022,
+      "descripcion": "app de control de gastos en react",
+      "links": [
+        {
+          "id": 1,
+          "url": "https://billetera-gastos-react.netlify.app/",
+          "codigo": false
+        },
+        {
+          "id": 2,
+          "url": "https://github.com/Diego-Aldao/control-gastos-react",
+          "codigo": true
+        }
+      ],
+      "tecnologias": [
+        {
+          "id": 1,
+          "nombre": "react"
+        },
+        {
+          "id": 2,
+          "nombre": "css"
+        },
+        {
+          "id": 3,
+          "nombre": "react-swipeable-list"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "titulo": "elise",
+      "año": 2021,
+      "descripcion": "landing page para una empresa especializada en diseño",
+      "links": [
+        {
+          "id": 1,
+          "url": "https://team-elise.netlify.app/",
+          "codigo": false
+        },
+        {
+          "id": 2,
+          "url": "https://github.com/Diego-Aldao/Elise",
+          "codigo": true
+        }
+      ],
+      "tecnologias": [
+        {
+          "id": 1,
+          "nombre": "html"
+        },
+        {
+          "id": 2,
+          "nombre": "bootstrap"
+        },
+        {
+          "id": 3,
+          "nombre": "javascript"
+        },
+        {
+          "id": 4,
+          "nombre": "leaflet"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "titulo": "pointer fotografia",
+      "año": 2021,
+      "descripcion": "sitio pra una empresa que ofrece servicios digitales, enfocado principalmente en la fotografia",
+      "links": [
+        {
+          "id": 1,
+          "url": "https://pointerfotografia.netlify.app/",
+          "codigo": false
+        },
+        {
+          "id": 2,
+          "url": "https://github.com/Diego-Aldao/fotografia",
+          "codigo": true
+        }
+      ],
+      "tecnologias": [
+        {
+          "id": 1,
+          "nombre": "html"
+        },
+        {
+          "id": 2,
+          "nombre": "scss"
+        },
+        {
+          "id": 3,
+          "nombre": "javascript"
+        },
+        {
+          "id": 4,
+          "nombre": "swiper"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "titulo": "modern arquitectura",
+      "año": 2021,
+      "descripcion": "sitio para una empresa de arquitectura, con una galería, blog y seccion de noticias.",
+      "links": [
+        {
+          "id": 1,
+          "url": "https://modernarquitectura.netlify.app/",
+          "codigo": false
+        },
+        {
+          "id": 2,
+          "url": "https://github.com/Diego-Aldao/Modern-Arquitectura",
+          "codigo": true
+        }
+      ],
+      "tecnologias": [
+        {
+          "id": 1,
+          "nombre": "html"
+        },
+        {
+          "id": 2,
+          "nombre": "css"
+        },
+        {
+          "id": 3,
+          "nombre": "gsap"
+        },
+        {
+          "id": 4,
+          "nombre": "swiper"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "titulo": "skylink",
+      "año": 2020,
+      "descripcion": "template para un blog",
+      "links": [
+        {
+          "id": 1,
+          "url": "https://skylink.netlify.app/",
+          "codigo": false
+        },
+        {
+          "id": 2,
+          "url": "https://github.com/Diego-Aldao/Skylink",
+          "codigo": true
+        }
+      ],
+      "tecnologias": [
+        {
+          "id": 1,
+          "nombre": "html"
+        },
+        {
+          "id": 2,
+          "nombre": "scss"
+        },
+        {
+          "id": 3,
+          "nombre": "javascript"
+        },
+        {
+          "id": 4,
+          "nombre": "swiper"
+        },
+        {
+          "id": 5,
+          "nombre": "normalize"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "titulo": "exo surf",
+      "año": 2020,
+      "descripcion": "landing page para una empresa productora de tablas de surf",
+      "links": [
+        {
+          "id": 1,
+          "url": "https://exosurf.netlify.app/",
+          "codigo": false
+        },
+        {
+          "id": 2,
+          "url": "https://github.com/Diego-Aldao/Exo-Surf",
+          "codigo": true
+        }
+      ],
+      "tecnologias": [
+        {
+          "id": 1,
+          "nombre": "html"
+        },
+        {
+          "id": 2,
+          "nombre": "css"
+        },
+        {
+          "id": 3,
+          "nombre": "react-router"
+        },
+        {
+          "id": 4,
+          "nombre": "swiper"
+        },
+        {
+          "id": 5,
+          "nombre": "gsap"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "titulo": "cypher",
+      "año": 2020,
+      "descripcion": "landing page para una agencia de marketing digital",
+      "links": [
+        {
+          "id": 1,
+          "url": "https://cyphercs.netlify.app/",
+          "codigo": false
+        },
+        {
+          "id": 2,
+          "url": "https://github.com/Diego-Aldao/Cypher",
+          "codigo": true
+        }
+      ],
+      "tecnologias": [
+        {
+          "id": 1,
+          "nombre": "html"
+        },
+        {
+          "id": 2,
+          "nombre": "css"
+        },
+        {
+          "id": 3,
+          "nombre": "javascript"
+        },
+        {
+          "id": 4,
+          "nombre": "intersection observer"
+        },
+        {
+          "id": 5,
+          "nombre": "swiper"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "titulo": "odyssey",
+      "año": 2023,
+      "descripcion": "permite buscar, hacer un seguimiento según categorías y consultar información detallada de animes. También contiene información de personajes y personas relacionadas a la industria.",
+      "tipo": "sitio dase de datos",
+      "imagenEnd": false,
+      "principal": true,
+      "imagenUrl": "https://firebasestorage.googleapis.com/v0/b/portfolio-ap-front.appspot.com/o/proyectos%2Fodyssey.webp?alt=media&token=0dd2e3a7-c1a4-4d48-a8bc-e3c0d70edf7b&_gl=1*e15lyi*_ga*MTgzMzI3NDAwOC4xNjk1Mzk0MDI0*_ga_CW55HF8NVT*MTY5NjI3MzQyOC4yLjEuMTY5NjI3MzYxNi45LjAuMA..",
+      "links": [
+        {
+          "id": 1,
+          "url": "https://odysseyanime.vercel.app/",
+          "codigo": false
+        },
+        {
+          "id": 2,
+          "url": "https://github.com/Diego-Aldao/odyssey",
+          "codigo": true
+        }
+      ],
+      "tecnologias": [
+        {
+          "id": 1,
+          "nombre": "react"
+        },
+        {
+          "id": 2,
+          "nombre": "typescript"
+        },
+        {
+          "id": 3,
+          "nombre": "tailwind"
+        },
+        {
+          "id": 4,
+          "nombre": "framer motion"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "titulo": "vision blend",
+      "año": 2023,
+      "descripcion": "sitio de imagenes y videos de stock",
+      "links": [
+        {
+          "id": 1,
+          "url": "https://vision-blend.vercel.app/",
+          "codigo": false
+        },
+        {
+          "id": 2,
+          "url": "https://github.com/Diego-Aldao/vision-blend",
+          "codigo": true
+        }
+      ],
+      "tecnologias": [
+        {
+          "id": 1,
+          "nombre": "next.js"
+        },
+        {
+          "id": 2,
+          "nombre": "tailwind css"
+        },
+        {
+          "id": 3,
+          "nombre": "typescript"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "titulo": "promptsVerse",
+      "año": 2023,
+      "descripcion": "sitio para crear y compartir prompts",
+      "links": [
+        {
+          "id": 1,
+          "url": "https://promptsverce.vercel.app/",
+          "codigo": false
+        },
+        {
+          "id": 2,
+          "url": "https://github.com/Diego-Aldao/ai-prompts",
+          "codigo": true
+        }
+      ],
+      "tecnologias": [
+        {
+          "id": 1,
+          "nombre": "next.js"
+        },
+        {
+          "id": 2,
+          "nombre": "tailwind css"
+        },
+        {
+          "id": 3,
+          "nombre": "mongodb"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "titulo": "akira",
+      "principal": true,
+      "año": 2023,
+      "descripcion": "Obtiene información sobre productos y categorías a través de llamadas a  API. Permite buscar, filtrar, y ver en detalle miles de productos. También es posible agregar dichos productos a favoritos o a un carrito de compras.",
+      "tipo": "ecommerce",
+      "imagenEnd": true,
+      "imagenUrl": "https://firebasestorage.googleapis.com/v0/b/portfolio-ap-front.appspot.com/o/proyectos%2Fakira.webp?alt=media&token=8176ed5c-5ac1-4e2c-b719-e22160f846e9&_gl=1*16u9c7p*_ga*MTgzMzI3NDAwOC4xNjk1Mzk0MDI0*_ga_CW55HF8NVT*MTY5Njg3MjgzNS42LjAuMTY5Njg3MjgzNS42MC4wLjA.",
+      "links": [
+        {
+          "id": 1,
+          "url": "https://akira-ecommerce.vercel.app/",
+          "codigo": false
+        },
+        {
+          "id": 2,
+          "url": "https://github.com/Diego-Aldao/ecommerce",
+          "codigo": true
+        }
+      ],
+      "tecnologias": [
+        {
+          "id": 1,
+          "nombre": "react"
+        },
+        {
+          "id": 2,
+          "nombre": "styled-components"
+        },
+        {
+          "id": 3,
+          "nombre": "formik"
+        },
+        {
+          "id": 4,
+          "nombre": "axios"
+        },
+        {
+          "id": 5,
+          "nombre": "react-router"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "titulo": "movieVerse",
+      "principal": true,
+      "año": 2023,
+      "descripcion": "Base de datos de películas, programas de televisión y celebridades. Permite a los usuarios buscar dentro de esos 3 parametros, ver estrenos, tendencias y tops. También ver los detalles de un parámetro en concreto y guardarlo o agregarlo a favoritos.",
+      "tipo": "sitio dase de datos",
+      "imagenEnd": false,
+      "imagenUrl": "https://firebasestorage.googleapis.com/v0/b/portfolio-ap-front.appspot.com/o/proyectos%2Fmovieverse.webp?alt=media&token=b2f2c73d-290b-4622-ac69-03ef329ee00c",
+      "links": [
+        {
+          "id": 1,
+          "url": "https://movieverse-db.netlify.app/",
+          "codigo": false
+        },
+        {
+          "id": 2,
+          "url": "https://github.com/Diego-Aldao/movies-db",
+          "codigo": true
+        }
+      ],
+      "tecnologias": [
+        {
+          "id": 1,
+          "nombre": "react"
+        },
+        {
+          "id": 2,
+          "nombre": "styled-components"
+        },
+        {
+          "id": 3,
+          "nombre": "the movie database API"
+        },
+        {
+          "id": 4,
+          "nombre": "react-router"
+        }
+      ]
+    },
+
+    {
+      "id": 20,
+      "titulo": "echo",
+      "principal": true,
+      "año": 2022,
+      "descripcion": "template para una empresa de diseño interior. Permite compartir su trabajo de una forma fácil, eficaz y atractiva. Contiene un formulario de contacto, blog y galerías.",
+      "tipo": "sitio de negocio",
+      "imagenEnd": true,
+      "imagenUrl": "https://firebasestorage.googleapis.com/v0/b/portfolio-ap-front.appspot.com/o/proyectos%2Fecho.webp?alt=media&token=4ea8a1ce-e5b9-4cc0-8b53-e855ccadc8b8&_gl=1*1rq96gi*_ga*MTgzMzI3NDAwOC4xNjk1Mzk0MDI0*_ga_CW55HF8NVT*MTY5NjI3MzQyOC4yLjEuMTY5NjI3MzcwNi4xMi4wLjA.",
+      "links": [
+        {
+          "id": 1,
+          "url": "https://designecho.netlify.app/",
+          "codigo": false
+        },
+        {
+          "id": 2,
+          "url": "https://github.com/Diego-Aldao/echo",
+          "codigo": true
+        }
+      ],
+      "tecnologias": [
+        {
+          "id": 1,
+          "nombre": "react"
+        },
+        {
+          "id": 2,
+          "nombre": "styled-components"
+        },
+        {
+          "id": 3,
+          "nombre": "formik"
+        },
+        {
+          "id": 4,
+          "nombre": "react-router"
+        }
+      ]
+    }
+  ]
+}
